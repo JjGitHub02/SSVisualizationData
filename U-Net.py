@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@author: Ibrahim Kovan
-https://ibrahimkovan.medium.com/
-
 dataset: http://www.dronedataset.icg.tugraz.at/
 dataset link: https://www.kaggle.com/awsaf49/semantic-drone-dataset
 License: CC0: Public Domain
-
 """
 #%% Libraries
 """1"""
