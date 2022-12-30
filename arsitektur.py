@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Ibrahim Kovan
-https://ibrahimkovan.medium.com/
 """
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, UpSampling2D, concatenate, Conv2DTranspose, BatchNormalization, Dropout, Lambda
